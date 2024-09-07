@@ -1,0 +1,5 @@
+Name = input("please enter your name: ")
+age = int(input("please enter your Age "))
+Future = input("Please enter How many years into the future would you like to time travel:")
+Future_age = input(age + 4)
+print(Name, age, Future, Future_age)
